@@ -2,12 +2,13 @@ package Exercicios.ED_I;
 
 import java.util.Scanner;
 
-public class EX1 {
+class EX1 {
 
     static final int MAX = 10;
 
+    static Scanner scanner = new Scanner(System.in);
+
     static void main() {
-        Scanner scanner = new Scanner(System.in);
 
         int[] V = new int[MAX];
         int x;
