@@ -10,8 +10,6 @@ class Raizes {
 
     static void main(){
 
-        byte z = 240;
-
         float a, b, c;
 
         double[] raiz = new double[2];
