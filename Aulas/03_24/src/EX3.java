@@ -9,25 +9,14 @@ public class EX3 {
         if (A > B)
         {
             if(A % B == 0)
-            {
                 System.out.println("São Múltiplos");
-            }
             else
-            {
                 System.out.println("Não são Múltiplos");
-            }
         }
+        else if (B % A == 0)
+            System.out.println("São Múltiplos");
         else
-        {
-            if (B % A == 0)
-            {
-                System.out.println("São Múltiplos");
-            }
-            else
-            {
-                System.out.println("Não são Múltiplos");
-            }
-        }
+            System.out.println("Não são Múltiplos");
         sc.close();
     }
 }

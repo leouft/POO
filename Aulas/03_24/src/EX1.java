@@ -7,13 +7,9 @@ public class EX1 {
         int num = sc.nextInt();
 
         if (num < 0)
-        {
             System.out.println("NEGATIVO");
-        }
         else
-        {
             System.out.println("NÃO NEGATIVO");
-        }
         sc.close();
     }
 }
