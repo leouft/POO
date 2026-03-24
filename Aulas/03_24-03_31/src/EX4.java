@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class EX4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Insira um inteiro: ");
         int N = sc.nextInt();
 
         for (int i = 0; i < N; i++)
