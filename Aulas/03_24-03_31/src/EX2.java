@@ -17,7 +17,7 @@ public class EX2 {
             else
                 out++;
         }
-        System.out.printf("%d in\n%d out\n", in, out);
+        System.out.printf("\n%d in\n%d out\n", in, out);
         sc.close();
     }
 }
