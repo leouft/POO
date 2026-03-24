@@ -1,16 +1,25 @@
 import java.util.Scanner;
 
 public class EX2 {
-    static void main()
+    public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
+        int x, y;
 
-        int num = sc.nextInt();
+        do{
+            x = sc.nextInt();
+            y = sc.nextInt();
 
-        if (num % 2 == 0)
-            System.out.println("PAR");
-        else
-            System.out.println("IMPAR");
-        sc.close();
+            if (x != 0 && y != 0) {
+                if (x > 0 && y > 0)
+                    System.out.println("Primeiro");
+                else if (x < 0 && y > 0)
+                    System.out.println("Segundo");
+                else if (x < 0 && y < 0)
+                    System.out.println("Terceiro");
+                else
+                    System.out.println("Quarto");
+            }
+        } while (x != 0 && y != 0);
     }
 }
