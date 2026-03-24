@@ -17,5 +17,6 @@ public class EX3 {
                 combustivel[op-1]++;
         } while (op != 4);
         System.out.printf("\nMUITO OBRIGADO\nAlcool: %d\nGasolina: %d\nDiesel: %d\n", combustivel[0], combustivel[1], combustivel[2]);
+        sc.close();
     }
 }

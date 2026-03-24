@@ -12,5 +12,6 @@ public class EX1 {
                 System.out.println("Senha Inválida.");
         } while (senha != 2002);
         System.out.println("Acesso Permitido");
+        sc.close();
     }
 }

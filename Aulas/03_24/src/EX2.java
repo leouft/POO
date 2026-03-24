@@ -21,5 +21,6 @@ public class EX2 {
                     System.out.println("Quarto");
             }
         } while (x != 0 && y != 0);
+        sc.close();
     }
 }
