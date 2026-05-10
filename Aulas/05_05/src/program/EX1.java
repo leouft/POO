@@ -1,3 +1,5 @@
+package program;
+
 import java.util.Scanner;
 
 public class EX1 {
@@ -19,5 +21,7 @@ public class EX1 {
             if (V[i] < 0)
                 System.out.println(V[i]);
         }
+
+        sc.close();
     }
 }

@@ -1,10 +1,13 @@
-import java.util.Scanner;
-import java.util.Locale;
+package program;
 
-public class EX2 {
+import java.util.Locale;
+import java.util.Scanner;
+
+public class EX5 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+
         int N;
 
         System.out.print("Quantos números você vai digitar? ");
@@ -12,19 +15,19 @@ public class EX2 {
 
         double[] V = new double[N];
 
-        double soma = 0;
+        int pos = 0;
 
         for(int i = 0; i < N; i++) {
-            System.out.print("Digite o número: ");
+            System.out.print("Digita um número: ");
             V[i] = sc.nextDouble();
-            soma += V[i];
+            if (V[i] > V[pos]) {
+                pos = i;
+            }
         }
 
-        System.out.print("\nVALORES = ");
-        for(int i = 0; i < N; i++) {
-            System.out.print(V[i] + " ");
-        }
-        System.out.println("\nSOMA = " + soma);
-        System.out.println("MEDIA = " + soma/N);
+        System.out.printf("\nMAIOR VALOR = %.1f\n", V[pos]);
+        System.out.printf("POSIÇÃO DO MAIOR VALOR = %d\n", pos);
+
+        sc.close();
     }
 }
