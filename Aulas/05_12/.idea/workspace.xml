@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d36eeac8-1aca-46c9-9a9d-17d6b60e0334" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../05_05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/05_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/GerenciadorEscopo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/entities/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/entities/PessoaEX11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/entities/PessoaEX3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/entities/PessoaEX9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_05/src/program/EX9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/05_12-05_12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/src/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/src/entities/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_12-05_12/src/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/HourContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/WorkerLevel.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_//wsl.localhost/Ubuntu-24.04/home/obliv/Programando/POO/Aulas/05_12" value="3DpAadIhe2LrGdypfy4skFGUqkf" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3DpAadIhe2LrGdypfy4skFGUqkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Program.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36eeac8-1aca-46c9-9a9d-17d6b60e0334" name="Changes" comment="" />
+      <created>1778968701685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778968701685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
