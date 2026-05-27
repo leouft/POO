@@ -16,6 +16,7 @@ public class Program {
         List<Employee> employees = new ArrayList<>();
 
         for (int i = 0; i < N; i++) {
+            System.out.printf("\nFuncionário #%d\n", i+1);
             int id;
             boolean flag; // variável usada pra verificar se um ID já foi usado (true = já foi usado)
             do { // Loop que repetirá enquanto o usuário não inserir um ID diferente de todos
